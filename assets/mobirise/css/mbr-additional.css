@@ -848,15 +848,11 @@ h6,
 #extFeatures9-2q H4 {
   color: #efefef;
 }
-#features7-1k .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1k .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-1k H4 {
+#features6-2z H4 {
   color: #ffffff;
+}
+#features6-2z P {
+  color: #000000;
 }
 #social-buttons4-1l .mbr-section-title,
 #social-buttons4-1l .btn-social {
@@ -941,15 +937,11 @@ h6,
   text-align: left;
   font-size: 32px;
 }
-#features7-2l .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-2l .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-2l H4 {
+#features6-2v H4 {
   color: #ffffff;
+}
+#features6-2v P {
+  color: #000000;
 }
 
 #ext_menu-1m .hide-buttons .nav-btn {
@@ -1025,15 +1017,11 @@ h6,
 #extHeader10-1r H3 {
   color: #f97352;
 }
-#features7-1o .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1o .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-1o H4 {
+#features6-2w H4 {
   color: #ffffff;
+}
+#features6-2w P {
+  color: #000000;
 }
 #extFooter1-1q .mbr-section-title {
   color: #f97352;
@@ -1137,6 +1125,12 @@ h6,
 #extFeatures14-x H3 {
   color: #efefef;
 }
+#features6-2x H4 {
+  color: #ffffff;
+}
+#features6-2x P {
+  color: #000000;
+}
 #extFooter1-q .mbr-section-title {
   color: #f97352;
   font-size: 24px;
@@ -1211,6 +1205,12 @@ h6,
 #ext_menu-s A {
   font-size: 14px;
 }
+#features6-2y H4 {
+  color: #ffffff;
+}
+#features6-2y P {
+  color: #000000;
+}
 #extFooter1-t .mbr-section-title {
   color: #f97352;
   font-size: 24px;
@@ -1225,14 +1225,4 @@ h6,
 }
 #extHeader10-u H3 {
   color: #f97352;
-}
-#features7-1s .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1s .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-1s H4 {
-  color: #ffffff;
 }
