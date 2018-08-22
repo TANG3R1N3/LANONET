@@ -185,8 +185,11 @@
           "_anchor": "header1-2t",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-size": "60px",
               "color": "#ed5631"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px"
             }
           }
         },
@@ -222,7 +225,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000"
             }
           },
           "media2": {
@@ -233,7 +237,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000"
             }
           },
           "media3": {
@@ -244,7 +249,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000"
             }
           },
           "media4": {
@@ -255,7 +261,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000"
             }
           },
           "media5": {
@@ -266,7 +273,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000"
             }
           },
           "media6": {

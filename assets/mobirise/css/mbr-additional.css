@@ -741,8 +741,11 @@ h6,
   font-size: 14px;
 }
 #header1-2t .mbr-section-title {
-  font-size: 46px;
+  font-size: 60px;
   color: #ed5631;
+}
+#header1-2t .mbr-section-lead {
+  font-size: 30px;
 }
 #features6-2u H4 {
   color: #ffffff;
