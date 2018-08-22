@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -551,12 +551,12 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT US",
-          "subtitle": "Subscribe to our Newsletter",
+          "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Talk to Us</a>",
           "form": {
             "action": "battyboomboom@hotmail.se",
             "alerts": {
-              "success": "Thanks for contacting us!"
+              "success": "Thanks for contacting us, we'll get back to you in a jiffy!"
             },
             "fields": {
               "email": {
