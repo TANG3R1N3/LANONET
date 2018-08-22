@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -176,7 +176,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LANONET",
-          "text": "<br><br><br>ICT Solutions for Education &amp; Business",
+          "text": "<br><br><br>ICT and Language Solutions for Education &amp; Business",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
