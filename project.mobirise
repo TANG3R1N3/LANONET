@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 119,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -539,9 +539,9 @@
           },
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -581,9 +581,9 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showIcons": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 2,
-            "columns": 3,
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -623,7 +623,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -631,7 +631,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -639,7 +639,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -652,19 +652,19 @@
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Robert Shipton",
           "subtitle2": "SEO",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title3": "A Nother",
           "subtitle3": "Manager",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Emily Brown",
+          "caption3": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title4": "N &nbsp;Icegirl",
           "subtitle4": "Reception",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "James Evans",
+          "caption4": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
+          "title5": "Cooly MacDude",
           "subtitle5": "Sales",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Daniel Walker",
+          "caption5": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title6": "A Dude",
           "subtitle6": "Founder",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -976,9 +976,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -988,9 +989,10 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media3": {
@@ -1000,9 +1002,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media4": {
@@ -1012,9 +1015,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media5": {
@@ -1024,9 +1028,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media6": {
@@ -1075,7 +1080,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features6-2z"
+          "_anchor": "features6-3a"
         },
         {
           "_inherit": "social-buttons2",
@@ -1088,8 +1093,8 @@
             }
           },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
@@ -1287,7 +1292,7 @@
               "font-size": "32px"
             }
           },
-          "_anchor": "extHeader10-2i"
+          "_anchor": "extHeader10-34"
         },
         {
           "_params": {
@@ -1394,7 +1399,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-2j"
+          "_anchor": "features3-35"
         },
         {
           "_inherit": "features3",
@@ -1404,7 +1409,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
@@ -1427,9 +1432,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -1439,9 +1445,10 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media3": {
@@ -1451,9 +1458,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media4": {
@@ -1463,9 +1471,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media5": {
@@ -1475,9 +1484,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media6": {
@@ -1526,7 +1536,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features6-2v"
+          "_anchor": "features6-36"
         }
       ]
     },
@@ -1846,9 +1856,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -1858,9 +1869,10 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media3": {
@@ -1870,9 +1882,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media4": {
@@ -1882,9 +1895,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media5": {
@@ -1894,9 +1908,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media6": {
@@ -1945,7 +1960,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features6-2w"
+          "_anchor": "features6-37"
         },
         {
           "_params": {
@@ -2318,9 +2333,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -2330,9 +2346,10 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media3": {
@@ -2342,9 +2359,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media4": {
@@ -2354,9 +2372,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media5": {
@@ -2366,9 +2385,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media6": {
@@ -2417,7 +2437,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features6-2x"
+          "_anchor": "features6-38"
         },
         {
           "_params": {
@@ -2586,138 +2606,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LANONET</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-s"
-        },
-        {
-          "_inherit": "features3",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ed5631",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "edit",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "devices",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title1": "EDUCATION",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "COMPANY",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "WEB",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "ICT",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "CONTACT",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features6",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "features6-2y"
         },
         {
           "_params": {
@@ -2952,6 +2840,143 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2n"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ed5631",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "EDUCATION",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "COMPANY",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "WEB",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "ICT",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "CONTACT",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features6-39"
         }
       ]
     }
