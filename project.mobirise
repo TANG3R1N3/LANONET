@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -224,9 +224,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page1.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media2": {
@@ -236,9 +237,10 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page2.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media3": {
@@ -248,9 +250,10 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page3.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media4": {
@@ -260,9 +263,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page4.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media5": {
@@ -272,9 +276,10 @@
               "name": "letter",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "link": "page5.html",
+              "size": "75",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "media6": {
