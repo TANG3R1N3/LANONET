@@ -836,7 +836,8 @@ h6,
 }
 #form2-z .mbr-section-title {
   color: #fff;
-  font-size: 24px;
+  font-size: 32px;
+  text-align: left;
 }
 #form2-z .mbr-section-subtitle {
   color: #a0a0a0;
@@ -844,6 +845,7 @@ h6,
 #extFeatures9-2q .mbr-section-title {
   color: #ed5631;
   font-size: 36px;
+  text-align: center;
 }
 #extFeatures9-2q H4 {
   color: #efefef;
@@ -1016,6 +1018,8 @@ h6,
 }
 #extHeader10-1r H3 {
   color: #f97352;
+  font-size: 32px;
+  text-align: left;
 }
 #features6-37 H4 {
   color: #ffffff;
@@ -1103,6 +1107,8 @@ h6,
 }
 #extHeader10-w H3 {
   color: #f97352;
+  font-size: 32px;
+  text-align: left;
 }
 #msg-box2-2k .mbr-section-title {
   color: #fff;
@@ -1219,6 +1225,8 @@ h6,
 }
 #extHeader10-u H3 {
   color: #f97352;
+  font-size: 32px;
+  text-align: left;
 }
 #features6-39 H4 {
   color: #ffffff;

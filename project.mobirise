@@ -531,7 +531,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "24px"
+              "font-size": "32px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -645,7 +646,7 @@
               "active": true
             }
           },
-          "title": "OUR TEAM",
+          "title": "OUR LANONET TEAM",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "title1": "Simon Whittaker",
           "subtitle1": "Programmer",
@@ -938,7 +939,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ed5631",
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "center"
             },
             "H4": {
               "color": "#efefef"
@@ -1713,7 +1715,9 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#f97352"
+              "color": "#f97352",
+              "font-size": "32px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-1r"
@@ -2192,7 +2196,9 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#f97352"
+              "color": "#f97352",
+              "font-size": "32px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-w"
@@ -2729,7 +2735,9 @@
               "font-size": "16px"
             },
             "H3": {
-              "color": "#f97352"
+              "color": "#f97352",
+              "font-size": "32px",
+              "text-align": "left"
             }
           },
           "_anchor": "extHeader10-u"
