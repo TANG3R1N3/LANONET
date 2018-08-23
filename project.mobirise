@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 140,
+    "uniqCompNum": 144,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -1674,7 +1674,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COMPANY SOLUTIONS",
-          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.<br><br>LANONET",
+          "text": "<br>With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.<br><br>LANONET",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH COMPANY</a>",
           "form": {
@@ -1727,7 +1727,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
@@ -1766,8 +1766,8 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "DO WHAT YOU ARE GOOD AT DOING <br><br>- WE DO!",
+          "text": "Can't see the wood for the trees? We can. Contact us and let us help you get to where you want to be.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3192,6 +3192,76 @@
           }
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "STUDENT SOLUTIONS",
+          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>LANONET",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH STUDENT SOLUTIONS</a>",
+          "form": {
+            "action": "battyboomboom@hotmail.se",
+            "alerts": {
+              "success": "Thanks for your time!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader10",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#f97352",
+              "text-align": "left",
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "extHeader10-3w"
+        },
+        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
@@ -3579,6 +3649,76 @@
           "_anchor": "extFeatures4-3p"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "TEACHER SOLUTIONS",
+          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>LANONET",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH TEACHER SOLUTIONS</a>",
+          "form": {
+            "action": "battyboomboom@hotmail.se",
+            "alerts": {
+              "success": "Thanks for your time!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader10",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#f97352",
+              "text-align": "left",
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "extHeader10-3x"
+        },
+        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
@@ -3964,6 +4104,76 @@
             }
           },
           "_anchor": "extFeatures4-3t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "SCHOOL SOLUTIONS",
+          "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>LANONET",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH SCHOOL SOLUTIONS</a>",
+          "form": {
+            "action": "battyboomboom@hotmail.se",
+            "alerts": {
+              "success": "Thanks for your time!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader10",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#f97352",
+              "text-align": "left",
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "extHeader10-3y"
         },
         {
           "_inherit": "features3",
