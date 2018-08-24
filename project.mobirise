@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANONET",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 144,
+    "uniqCompNum": 148,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -135,7 +135,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -424,7 +424,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Contact",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -506,7 +506,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1114,6 +1114,63 @@
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>       ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT&nbsp;</li></ul>",
+          "title": "LANONET",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f97352",
+              "font-size": "24px"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -1124,7 +1181,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1206,7 +1263,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1539,7 +1596,64 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features6-36"
+          "_anchor": "features6-40"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT&nbsp;</li></ul>",
+          "title": "LANONET",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f97352",
+              "font-size": "24px"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -1550,7 +1664,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1632,7 +1746,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1984,7 +2098,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Web",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2066,7 +2180,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2464,7 +2578,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "ICT",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2546,7 +2660,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2947,7 +3061,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Student",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3029,7 +3143,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3397,6 +3511,63 @@
             }
           },
           "_anchor": "features6-3i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT&nbsp;</li></ul>",
+          "title": "LANONET",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f97352",
+              "font-size": "24px"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -3404,7 +3575,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Teacher",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3486,7 +3657,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3854,6 +4025,63 @@
             }
           },
           "_anchor": "features6-3q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT&nbsp;</li></ul>",
+          "title": "LANONET",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f97352",
+              "font-size": "24px"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -3861,7 +4089,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "School",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3943,7 +4171,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ln-138x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -4311,6 +4539,63 @@
             }
           },
           "_anchor": "features6-3u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT&nbsp;</li></ul>",
+          "title": "LANONET",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/favicon-1-128x128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f97352",
+              "font-size": "24px"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
